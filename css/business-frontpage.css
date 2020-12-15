@@ -23,7 +23,20 @@ body {
     object-fit: cover;
 }
 
+#main-gallery h1 {
+    font-family: 'Langar', cursive;
+}
+
+#main-gallery h5 {
+    font-family: 'Russo One', sans-serif;
+}
+
+#main-gallery .card-text {
+    font-size: 12px;
+}
+
 
 footer {
     margin-top: 50px;
+    font-family: 'Langar', cursive;
 }
